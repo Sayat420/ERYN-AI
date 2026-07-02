@@ -1,0 +1,24 @@
+numpy
+opencv-python
+mediapipe
+pillow
+
+sounddevice
+soundfile
+edge-tts
+pygame; python_version < "3.14"
+
+SpeechRecognition
+faster-whisper
+openai-whisper
+
+pyautogui
+pygetwindow
+pywin32
+psutil
+
+requests
+python-dotenv
+
+rich
+colorama
